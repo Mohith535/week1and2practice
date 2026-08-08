@@ -10,3 +10,10 @@
 
 ---
 
+# Week 1–2 Java Practice
+
+Week 1 and 2 Java practice programs covering variables, operators, input, and basic problem solving.
+
+**Level 1** — Harry's age, pens division, profit calculation, PCM average
+**Level 2** — Calculator, quotient & remainder, square side from perimeter
+**Level 3** — Swap two numbers, Celsius to Fahrenheit
